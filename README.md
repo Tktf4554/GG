@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>Calm...</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-  
-  <style>
+	
+<style>
   table,
 th,
 td {
@@ -201,6 +196,13 @@ h2{
   
   
   </style>
+	
+<head>
+  <title>Calm...</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+  
+  
 <body>
 
   <header>
